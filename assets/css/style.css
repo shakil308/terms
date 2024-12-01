@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Narrow:ital,wght@0,400..700;1,400..700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Archivo Narrow", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+ul,
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/* common css end  */
+
+/* header area start  */
+.terms-wrapper {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.terms-heading {
+    padding-top: 90px;
+}
+
+.terms-title {
+    font-style: normal;
+    font-weight: 600;
+    font-size: 52px;
+    font-family: "Archivo Narrow", sans-serif;
+    padding: 60px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.terms-text {
+    padding: 0 70px;
+    line-height: 1.6;
+    padding-top: 40px;
+}
